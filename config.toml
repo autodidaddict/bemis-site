@@ -40,7 +40,7 @@ theme = "hugo-elate-theme"
   # Hero section
   [params.hero]
     title = "The Bemis Media Project."
-    subtitle = 'A free, open-source project for movie nerds, by movie nerds<br/>designed for private synchronization and federation of media libraries.'
+    subtitle = "A free, open-source project for movie nerds, by movie nerds<br/>designed for private synchronization and federation of media libraries.<br/><br/><i>\"There's time enough at last\"</i> - Henry Bemis, Twilight Zone, Season 1, Episode 8"
  
   # Intro section
   # Available icons: http://simplelineicons.com/
