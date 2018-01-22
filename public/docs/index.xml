@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Bemis Media</title>
+    <link>/docs/</link>
+    <description>Recent content in Docs on Bemis Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jan 2018 11:38:25 -0500</lastBuildDate>
+    
+	<atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction</title>
+      <link>/docs/intro/</link>
+      <pubDate>Mon, 22 Jan 2018 11:38:25 -0500</pubDate>
+      
+      <guid>/docs/intro/</guid>
+      <description>TBD</description>
+    </item>
+    
+  </channel>
+</rss>
